@@ -1,0 +1,32 @@
+{
+  "name": "ramal-menu-altyapi",
+  "version": "1.0.0",
+  "description": "ramal menü altyapısıdır.",
+  "main": "ramal.js",
+  "scripts": {
+    "test": "node ramal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWTCHR/dcjs-menu-altyapi.git"
+  },
+  "keywords": [
+    "ramalaltyapi",
+    "menualtyapi",
+    "ramalmenu",
+    "ramal",
+    "menüsistemi",
+    "lamina",
+    "menusystem",
+    "serendia"
+  ],
+  "author": "ramal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheWTCHR/dcjs-menu-altyapi/issues"
+  },
+  "homepage": "https://github.com/TheWTCHR/dcjs-menu-altyapi#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
