@@ -1,0 +1,36 @@
+{
+    "Token":"",
+    "Mongo":"",
+    "BotSes":"1043891011220426755",
+    "BotDurum":"Değer Mi ?",
+    "BotPrefix":["."],
+    "BotId":"1043891691792384090",
+    "BotOwner":[""],
+
+    "guildID":"1043891010687729755",
+    "enaltyt":"1001601780435648574",
+
+    "invkanal":"1043899710810898515",
+    
+    "red":"<a:ramal_red:1001610006606647453>",
+    "green":"<a:ramal_yes:1001610015754424362>",
+    "ramal_voice":"<:ramal_voice:1001610001158262904>",
+    "ramal_chat":"<a:ramal_chat:1001609999702839479>",
+    "ramal_arama":"<:ramal_arama:1001610017528631397>",
+    "ramal_yildiz":"<a:ramal_deynek:945744643730079876>",
+
+    "yes":"1001610015754424362",
+    "no":"1001610006606647453",
+
+
+    "isimtag":"•",
+    "taglar": [""],
+    "tag":"•",
+    "defaultName":"• Kayıtsız",
+
+    "dmMessages": true,
+    "banlimit": 3,
+    "jaillimit": 3,
+    "chatmutelimit": 3,
+    "voicemutelimit": 3
+}
